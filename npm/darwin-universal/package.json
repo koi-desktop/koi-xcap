@@ -1,0 +1,15 @@
+{
+  "name": "koi-xcap-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "koi-xcap.darwin-universal.node",
+  "files": [
+    "koi-xcap.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
